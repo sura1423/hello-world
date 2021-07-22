@@ -1,2 +1,2 @@
 # hello-world
-done github tutorial
+done by github tutorial
